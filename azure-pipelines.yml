@@ -10,11 +10,11 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: '<Name of your webapp>'
-  serviceConnection: '<Name of your webARM Service connection>'
-  azureSubscriptionId: '<Azure subscriptionId>'
-  loadTestResource: '<Name of your load test resource>'
-  loadTestResourceGroup: '<Name of your load test resource group>'
+  webAppName: 'sfd-dev-legacy.westus.cloudapp.azure.com'
+  serviceConnection: 'AzureLoadTesting'
+  azureSubscriptionId: 'b2db0834-04ac-4255-9a6e-f9fc53327842'
+  loadTestResource: 'AzureLoadTesting'
+  loadTestResourceGroup: 'SFD-Dev'
   location: 'EAST US'
 
 
