@@ -11,7 +11,7 @@ pool:
 
 variables:
   webAppName: 'sfd-dev-legacy.westus.cloudapp.azure.com'
-  serviceConnection: 'AzureLoadTesting'
+  serviceConnection: 'AzureLoadtesting'
   azureSubscriptionId: 'b2db0834-04ac-4255-9a6e-f9fc53327842'
   loadTestResource: 'AzureLoadTesting'
   loadTestResourceGroup: 'SFD-Dev'
