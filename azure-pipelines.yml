@@ -11,11 +11,11 @@ pool:
 
 variables:
   webAppName: 'sfd-dev-legacy.westus.cloudapp.azure.com'
-  serviceConnection: 'AzureLoadtesting'
+  serviceConnection: 'MyAzureLoadTestinRG'
   azureSubscriptionId: 'b2db0834-04ac-4255-9a6e-f9fc53327842'
   loadTestResource: 'AzureLoadTesting'
   loadTestResourceGroup: 'SFD-Dev'
-  location: 'EAST US'
+  location: 'West US'
 
 
 stages:
