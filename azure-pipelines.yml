@@ -58,7 +58,7 @@ stages:
         azureResourceManagerConnection: $(serviceConnection)
         subscriptionId: $(azureSubscriptionId)
         action: 'Create Or Update Resource Group'
-        resourceGroupName: '$(webAppName)-rg'
+        resourceGroupName: 'kedia-rg'
         location: $(location)
         templateLocation: 'Linked artifact'
         csmFile: '$(System.DefaultWorkingDirectory)/windows-webapp-template.json'
