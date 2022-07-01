@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'sfd-dev-legacy.westus.cloudapp.azure.com'
+  webAppName: 'load-testing1'
   serviceConnection: 'MyAzureLoadTestinRG1'
   azureSubscriptionId: 'b2db0834-04ac-4255-9a6e-f9fc53327842'
   loadTestResource: 'SFDSAzureLoadTesting'
