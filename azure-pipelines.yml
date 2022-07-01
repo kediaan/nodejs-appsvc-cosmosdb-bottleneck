@@ -14,7 +14,7 @@ variables:
   serviceConnection: 'MyAzureLoadTestinRG1'
   azureSubscriptionId: 'b2db0834-04ac-4255-9a6e-f9fc53327842'
   loadTestResource: 'SFDSAzureLoadTesting'
-  loadTestResourceGroup: 'load-testing'
+  loadTestResourceGroup: 'load-testing1'
   location: 'East US'
 
 
